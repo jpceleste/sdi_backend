@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 11 Aug 2021 13:56:57 GMT
+Server: Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.3
+X-Powered-By: PHP/7.3.3
+Vary: Accept
+X-Debug-Tag: 6113d729e036a
+X-Debug-Duration: 2,169
+X-Debug-Link: /aterpea_backend/web/debug/default/view?tag=6113d729e036a
+Access-Control-Allow-Origin: *
+Content-Length: 117
+Content-Type: application/json; charset=UTF-8
+

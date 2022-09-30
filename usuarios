@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 11 Aug 2021 13:58:53 GMT
+Server: Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.3
+X-Powered-By: PHP/7.3.3
+Vary: Accept
+X-Pagination-Total-Count: 1
+X-Pagination-Page-Count: 1
+X-Pagination-Current-Page: 1
+X-Pagination-Per-Page: 20
+Link: <http://localhost/aterpea_backend/web/usuarios?page=1>; rel=self, <http://localhost/aterpea_backend/web/usuarios?page=1>; rel=first, <http://localhost/aterpea_backend/web/usuarios?page=1>; rel=last
+X-Debug-Tag: 6113d79dcdc8d
+X-Debug-Duration: 2,137
+X-Debug-Link: /aterpea_backend/web/debug/default/view?tag=6113d79dcdc8d
+Access-Control-Allow-Origin: *
+Content-Length: 119
+Content-Type: application/json; charset=UTF-8
+
+[{"idusuario":1,"user":"jp","pass":"jp","rol":1,"authKey":null,"accessToken":null,"activo":1,"idunidadfuncional":null}]
